@@ -1,0 +1,6 @@
+﻿services:
+  matplan:
+    image: matplan
+    build:
+      context: .
+      dockerfile: Matplan/Dockerfile

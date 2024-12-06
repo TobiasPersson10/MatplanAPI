@@ -1,0 +1,6 @@
+@Matplan_HostAddress = http://localhost:5109
+
+GET {{Matplan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
